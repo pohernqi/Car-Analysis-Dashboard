@@ -5,9 +5,9 @@ consists of 23,906 records representing detailed car sales transactions from 202
 process, including customer demographics, vehicle specifications, sales pricing, and
 dealership details.
 
-Dashboard 1
+## Dashboard 1
 <img width="762" height="419" alt="image" src="https://github.com/user-attachments/assets/57dfa4a3-b679-4634-b3cf-ff4bcef12e50" />
 
-Dashboard 2
+## Dashboard 2 
 <img width="760" height="421" alt="image" src="https://github.com/user-attachments/assets/9855db22-0dee-49c6-886d-1a54cf9a467c" />
 
